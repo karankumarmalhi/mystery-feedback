@@ -1,0 +1,24 @@
+
+[
+    {
+      "question_id": "1",
+      "question_text": "What is the average rating of the talk?"
+    },
+    {
+      "question_id": "2",
+      "question_text": "How many attendees rated the talk 5?"
+    },
+    {
+      "question_id": "3",
+      "question_text": "What are some common comments about the talk?",
+    },
+    {
+      "question_id": "4",
+      "question_text": "On which dates did attendees provide feedback?"
+    },
+    {
+      "question_id":"5",
+      "question_text": "What improvements were suggested by the attendees?"
+    }
+  ]
+
